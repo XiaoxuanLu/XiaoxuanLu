@@ -24,7 +24,7 @@ Hi there, I'm **Sherry Lu**, a **student** who loves self-learning. I come from 
 - 💼 I’m pursuing a Bachelor's degree in Liberal Arts and Sciences;
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19)
 
 **Languages and Tools:**  
 
