@@ -15,6 +15,8 @@ Hi there, I'm **Sherry Lu**, a **student** who loves self-learning. I come from 
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/XiaoxuanLu/count.svg" />
+  
+  https://github.com/XiaoxuanLu/waka-box 
 
 **Talking about Personal Stuffs:**
 
