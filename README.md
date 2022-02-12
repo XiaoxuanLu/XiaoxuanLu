@@ -22,7 +22,7 @@ Hi there, I'm **Sherry Lu**, a **student** who loves self-learning. I come from 
 - 👨🏽‍💻 I’m currently a student at Amsterdam University College;
 - 🌱 I’m currently applying for computer science master's; 
 - 🤔 My interests are with Software Engineering, Cloud computing, Machine Learning;
-- 💼 I’m pursuing a Bachelor's degree in Liberal Arts and Sciences;
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
