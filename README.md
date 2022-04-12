@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Sherry Lu**, a **student** who loves self-learning. I come from 🇨🇳 **China**. 
+Hi there, I'm **Sherry Lu**.
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/XiaoxuanLu/count.svg" />
@@ -19,8 +19,6 @@ Hi there, I'm **Sherry Lu**, a **student** who loves self-learning. I come from 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a student at Amsterdam University College;
-- 🌱 I’m currently writing my final capstone; 
 - 🤔 My interests are with Software Engineering, Cloud computing, Machine Learning;
 
 
