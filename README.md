@@ -4,7 +4,7 @@
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/xiaoxuan_lulu/?hl=en">
+<a href="https://www.instagram.com/sherrrryxxl/?hl=en">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -19,7 +19,7 @@ Hi there, I'm **Sherry Lu**.
 
 **Talking about Personal Stuffs:**
 
-- 🤔 My interests are with Software Engineering, Cloud computing, Machine Learning;
+- 🤔 My interests are with Software Engineering, Cloud computing, and Machine Learning;
 
 
 
