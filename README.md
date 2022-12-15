@@ -1,6 +1,6 @@
 ### Hi, I'm Sherry 👋
 
-<a href="https://www.linkedin.com/in/xiaoxuan-sherry-lu-37aab01b2/">
+<a href="https://www.linkedin.com/in/xiaoxuanlu/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
