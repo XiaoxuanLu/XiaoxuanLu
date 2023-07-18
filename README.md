@@ -14,7 +14,6 @@
 Hi there, I'm **Sherry Lu**.
 
  ### Profile Views :<br>
- ![](https://komarev.com/ghpvc/?username=XiaoxuanLu)
   <img src="https://komarev.com/ghpvc/?username=XiaoxuanLu" />
   
 
