@@ -28,9 +28,11 @@
 
 
 <h2 align="center">Some of my statistics 🚀</h2>
-
+<p align="center">
+  
 ![Sherry's github stats](https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoxuanLu&theme=tokyonight" alt="mystreak"/>
+</p>
 <p align="center">
   <img style="height:70%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoxuanLu&theme=tokyonight&layout=compact"/>
 </p>
