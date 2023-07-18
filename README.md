@@ -19,7 +19,7 @@ Hi there, I'm **Sherry Lu**.
 
 **Talking about Personal Stuffs:**
 
-- 🤔 My interests are with Software Engineering, Cloud computing, and Machine Learning;
+- 🤔 My interests are in Software Engineering, Cloud computing, and Machine Learning;
 
 
 
