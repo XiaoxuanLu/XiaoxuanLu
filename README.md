@@ -29,9 +29,6 @@
 
 <h2 align="center">Some of my statistics 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoxuanLu&theme=tokyonight" alt="mystreak"/>
 </p>
 <p align="center">
