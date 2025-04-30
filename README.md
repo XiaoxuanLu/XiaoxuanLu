@@ -19,9 +19,6 @@
 
 <h2 align="center">Profile views :musical_keyboard:</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XiaoxuanLu&color=ff69b4&style=for-the-badge"/>
-</p>
-<p align="center">
   <img src="https://profile-counter.glitch.me/XiaoxuanLu/count.svg">
 </p>
   
