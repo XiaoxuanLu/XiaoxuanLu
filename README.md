@@ -19,7 +19,7 @@
 
 <h2 align="center">Profile views :musical_keyboard:</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/XiaoxuanLu/count.svg">
+  <img src="https://komarev.com/ghpvc/?username=XiaoxuanLu&style=flat-square">
 </p>
   
 
