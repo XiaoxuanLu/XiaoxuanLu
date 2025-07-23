@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Sherry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=22&pause=1000&color=1DAEF7&width=435&lines=Software+Engineer+%40+Tech;CMU+Graduate;AI+Tool+Contributor" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=22&pause=1000&color=0077B5&center=true&width=435&lines=Software+Engineer+%40+Tech;CMU+Graduate;AI+Tool+Contributor" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
