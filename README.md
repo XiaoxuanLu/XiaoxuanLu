@@ -4,18 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=22&pause=1000&color=0077B5&center=true&width=435&lines=Software+Engineer+%40+Tech;CMU+Graduate;AI+Tool+Contributor" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/xiaoxuanlu/">
-    <img alt="Sherry's LinkdeIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-
-  <a href="https://www.instagram.com/sherrrryxxl/?hl=en">
-    <img alt="Sherry's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-</p>
-
 
 <h2 align="center">Profile views :musical_keyboard:</h2>
 <p align="center">
